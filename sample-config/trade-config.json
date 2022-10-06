@@ -1,0 +1,22 @@
+{
+  "network": "testnet",
+  "forms": [
+    {
+      "data": {
+        "name": "OpenCerts Certificate of Award",
+        "title": "Test Title By Caps",
+        "remarks": "Test Remarks By Caps",
+        "fileName": "cover-letter",
+        "did": "did:fuixlabs:PAPERLESS_COMPANY:0x0"
+      },
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BYR_color_wheel.svg/1024px-BYR_color_wheel.svg.png",
+      "attachments": false,
+      "extension": "tt",
+      "style": {
+        "backgroundColor": "#ffffff",
+        "titleColor": "#000000",
+        "descriptionColor": "#ff0000"
+      }
+    }
+  ]
+}

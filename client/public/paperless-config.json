@@ -1,0 +1,44 @@
+{
+  "network": "testnet",
+  "forms": [
+    {
+      "data": {
+        "name": "OpenCerts Certificate of Award",
+        "title": "OpenCerts Certificate of Award",
+        "remarks": "This certificate is valid for the following scope: Designing, processing, supplying, and erecting of steel structure.",
+        "fileName": "engineer-training-program",
+        "shippingInformation": {
+          "title": "PH Building, floor 3",
+          "countryName": "VIET NAM",
+          "stress": "777a Nguyen Trai st",
+          "address": "Ninh Kieu, Can Tho"
+        },
+        "customInformation": {
+          "title": "2nd Address",
+          "additionalAddress": "MVP University",
+          "telephoneNumber": "+84"
+        },
+        "declarationInformation": {
+          "title": "",
+          "declarationName": "RICARDO",
+          "designation": "Junior Architect",
+          "date": "17/03/2020"
+        },
+        "certification": {
+          "title": "FUIXLABS SUMMER TECH TRAINING",
+          "certificationName": "Management System Certificate",
+          "designation": "Qualified",
+          "date": "17/08/2022"
+        }
+      },
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BYR_color_wheel.svg/1024px-BYR_color_wheel.svg.png",
+      "attachments": true,
+      "extension": "fl",
+      "style": {
+        "backgroundColor": "#ffffff",
+        "titleColor": "#000000",
+        "descriptionColor": "#ff0000"
+      }
+    }
+  ]
+}

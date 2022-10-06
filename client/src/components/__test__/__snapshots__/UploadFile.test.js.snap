@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<div
+  style={
+    Object {
+      "marginTop": 20,
+    }
+  }
+>
+  <h3>
+    Upload your file
+  </h3>
+  <div>
+    <input
+      data-testid="fileReader"
+      type="file"
+    />
+  </div>
+</div>
+`;

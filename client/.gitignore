@@ -1,0 +1,6 @@
+# Build and Release Folders
+build/
+node_modules/
+
+**/.DS_Store
+**/.vscode/

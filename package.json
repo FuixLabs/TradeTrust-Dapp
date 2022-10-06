@@ -1,0 +1,42 @@
+{
+  "name": "modified-oa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd server && nodemon server.js",
+    "client": "cd client && PORT=4000 npm start",
+    "build": "cd client && npm run build",
+    "start": "nodemon server.js",
+    "prepare-server": "npm i",
+    "prepare-client": "cd client && npm i --force",
+    "set-up-env": "node scripts/setupEnv.js"
+  },
+  "repository": {
+    "type": "git",
+    "dev": "",
+    "url": "git+https://github.com/HaoHuynh0301/modified-oa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaoHuynh0301/modified-oa/issues"
+  },
+  "homepage": "https://github.com/HaoHuynh0301/modified-oa#readme",
+  "dependencies": {
+    "@emurgo/cardano-message-signing-browser": "^1.0.1",
+    "@emurgo/cardano-serialization-lib-nodejs": "^11.0.5",
+    "dotenv": "^16.0.1",
+    "envfile": "^6.17.0",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "http-proxy-middleware": "^2.0.6",
+    "react-number-format": "^5.0.1",
+    "readline": "^1.3.0",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

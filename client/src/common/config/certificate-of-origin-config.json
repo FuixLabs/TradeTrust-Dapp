@@ -1,0 +1,50 @@
+{
+  "network": "testnet",
+  "forms": [
+    {
+      "data": {
+        "name": "Certificate Of Origin",
+        "serial": 111,
+        "exporter": {
+          "name": "John Doe",
+          "address": "10 Pasir Panjang Road #10-01 Mapletree Business City",
+          "country": "Singapore",
+          "phoneNumber": "117438 65",
+          "tax": "ABN 333"
+        },
+        "importer": {
+          "name": "Alice Tran",
+          "address": "106 Blk F7 Seksyen 1 Bdr Baru Wangsa Maju Setapak",
+          "country": "Kuala Lumpur",
+          "phoneNumber": "53300 60"
+        },
+        "means": {
+          "departureDate": "25/8/2022",
+          "vehicleNo": "777",
+          "portOfLoading": "555",
+          "portOfDischarge": "888"
+        },
+        "remarks": {
+          "consignmentRef": "222",
+          "consignmentInformation": ""
+        },
+        "issusedDate": "2020-05-29",
+        "itemNumber": 16,
+        "marksandNumbers": 15,
+        "numberOfPackages": 20,
+        "hsCode": "2394hf",
+        "originCriterion": 32,
+        "odiverQuantity": 21,
+        "invoiceNumber": 12
+      },
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BYR_color_wheel.svg/1024px-BYR_color_wheel.svg.png",
+      "attachments": true,
+      "extension": "fl",
+      "style": {
+        "backgroundColor": "#ffffff",
+        "titleColor": "#000000",
+        "descriptionColor": "#ff0000"
+      }
+    }
+  ]
+}

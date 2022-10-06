@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185" height="1080" viewBox="0 0 185 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Image_placeholder" data-name="Image placeholder" width="185" height="1080" rx="8" transform="translate(240 -838)" fill="#e69f3e"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-240 838)" clip-path="url(#clip-path)">
+    <g id="Group_90162" data-name="Group 90162" transform="translate(187 63)">
+      <circle id="Ellipse_1629" data-name="Ellipse 1629" cx="78" cy="78" r="78" transform="translate(3 106)" fill="#fff" opacity="0.097"/>
+      <circle id="Ellipse_1630" data-name="Ellipse 1630" cx="78.5" cy="78.5" r="78.5" transform="translate(84 106)" fill="#fff" opacity="0.097"/>
+      <ellipse id="Ellipse_1631" data-name="Ellipse 1631" cx="78.5" cy="78" rx="78.5" ry="78" transform="translate(31 47)" fill="#fff" opacity="0.097"/>
+    </g>
+    <g id="Group_90176" data-name="Group 90176" transform="translate(57 -399)">
+      <circle id="Ellipse_1629-2" data-name="Ellipse 1629" cx="78" cy="78" r="78" transform="translate(0 59)" fill="#fff" opacity="0.097"/>
+      <circle id="Ellipse_1630-2" data-name="Ellipse 1630" cx="56.5" cy="56.5" r="56.5" transform="translate(127 72)" fill="#fff" opacity="0.097"/>
+      <circle id="Ellipse_1638" data-name="Ellipse 1638" cx="42.5" cy="42.5" r="42.5" transform="translate(127 142)" fill="#fff" opacity="0.097"/>
+    </g>
+    <g id="Group_90177" data-name="Group 90177" transform="translate(319 -866)">
+      <circle id="Ellipse_1629-3" data-name="Ellipse 1629" cx="78" cy="78" r="78" transform="translate(-115 -79)" fill="#fff" opacity="0.097"/>
+      <circle id="Ellipse_1630-3" data-name="Ellipse 1630" cx="78.5" cy="78.5" r="78.5" transform="translate(81 59)" fill="#fff" opacity="0.097"/>
+      <ellipse id="Ellipse_1631-2" data-name="Ellipse 1631" cx="78.5" cy="78" rx="78.5" ry="78" transform="translate(-87 -20)" fill="#fff" opacity="0.097"/>
+    </g>
+    <g id="Group_90178" data-name="Group 90178" transform="translate(319 -540)">
+      <circle id="Ellipse_1630-4" data-name="Ellipse 1630" cx="78.5" cy="78.5" r="78.5" transform="translate(81 59)" fill="#fff" opacity="0.097"/>
+    </g>
+  </g>
+</svg>
